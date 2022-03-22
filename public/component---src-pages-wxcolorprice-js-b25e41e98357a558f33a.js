@@ -1,0 +1,2 @@
+(self.webpackChunkzwglass_purchase_records=self.webpackChunkzwglass_purchase_records||[]).push([[161],{1625:function(e,r,t){"use strict";t.r(r);var c=t(67294),a=t(93696),l=t(93751),n=t(31166);r.default=function(e){var r=e.location;return c.createElement(a.Z,null,c.createElement(l.Z,{title:"WX ColorPrice"}),c.createElement(n.Z,{location:r}))}}}]);
+//# sourceMappingURL=component---src-pages-wxcolorprice-js-b25e41e98357a558f33a.js.map

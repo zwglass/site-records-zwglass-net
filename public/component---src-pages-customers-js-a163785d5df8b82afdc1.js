@@ -1,0 +1,2 @@
+(self.webpackChunkzwglass_purchase_records=self.webpackChunkzwglass_purchase_records||[]).push([[6331],{6263:function(e,r,t){"use strict";t.r(r);var s=t(67294),l=t(93696),u=t(89065),c=t(93751);r.default=function(){return s.createElement(l.Z,null,s.createElement(c.Z,{title:"Customer"}),s.createElement(u.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-customers-js-a163785d5df8b82afdc1.js.map
