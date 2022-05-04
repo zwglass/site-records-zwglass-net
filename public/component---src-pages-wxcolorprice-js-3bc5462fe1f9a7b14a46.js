@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{fpBp:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("9qUX"),c=a("vrFN"),l=a("e1dp");t.default=function(e){var t=e.location;return o.a.createElement(r.a,null,o.a.createElement(c.a,{title:"WX ColorPrice"}),o.a.createElement(l.a,{location:t}))}}}]);
-//# sourceMappingURL=component---src-pages-wxcolorprice-js-3bc5462fe1f9a7b14a46.js.map

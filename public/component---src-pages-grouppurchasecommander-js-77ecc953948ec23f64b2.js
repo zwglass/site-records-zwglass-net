@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient_admin_v102=self.webpackChunkclient_admin_v102||[]).push([[119],{3242:function(e,n,t){t.r(n);var l=t(7294),c=t(4564),u=t(262),a=t(126);n.default=function(){return l.createElement(c.Z,null,l.createElement(u.Z,{title:"团购团长"}),l.createElement(a.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-grouppurchasecommander-js-77ecc953948ec23f64b2.js.map

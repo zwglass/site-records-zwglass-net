@@ -1,2 +1,0 @@
-(self.webpackChunkzwglass_purchase_records=self.webpackChunkzwglass_purchase_records||[]).push([[119],{56172:function(e,r,t){"use strict";t.r(r);var l=t(67294),s=t(93696),c=t(93751),n=t(3501);r.default=function(){return l.createElement(s.Z,null,l.createElement(c.Z,{title:"团购团长"}),l.createElement(n.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-grouppurchasecommander-js-41f8b9339ac5bf5e725d.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient_admin_v102=self.webpackChunkclient_admin_v102||[]).push([[5736],{8625:function(e,n,t){t.r(n);var l=t(7294),c=t(4564),u=t(262),a=t(2103);n.default=function(){return l.createElement(c.Z,null,l.createElement(u.Z,{title:"WX Goods"}),l.createElement(a.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-wxgoods-js-fead4f642b1353c0d392.js.map

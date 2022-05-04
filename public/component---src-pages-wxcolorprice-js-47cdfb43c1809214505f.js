@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient_admin_v102=self.webpackChunkclient_admin_v102||[]).push([[161],{7182:function(e,t,n){n.r(t);var l=n(7294),c=n(4564),a=n(262),i=n(471);t.default=function(e){var t=e.location;return l.createElement(c.Z,null,l.createElement(a.Z,{title:"WX ColorPrice"}),l.createElement(i.Z,{location:t}))}}}]);
+//# sourceMappingURL=component---src-pages-wxcolorprice-js-47cdfb43c1809214505f.js.map

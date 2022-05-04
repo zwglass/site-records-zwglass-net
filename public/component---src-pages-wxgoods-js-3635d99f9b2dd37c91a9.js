@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{AVep:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("9qUX"),c=n("vrFN"),o=n("t9as");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"WX Goods"}),l.a.createElement(o.a,null))}}}]);
-//# sourceMappingURL=component---src-pages-wxgoods-js-3635d99f9b2dd37c91a9.js.map
